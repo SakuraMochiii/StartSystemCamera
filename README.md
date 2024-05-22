@@ -1,2 +1,2 @@
 # StartSystemCamera
-An normal Android demo, call system camera to capture picture and vedio
+This is a simple demo which uses the system camera to capture picture and video.
